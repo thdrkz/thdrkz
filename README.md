@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
+  <!-- <img src="docs/assets/seal_hydrakz.svg" alt="Hydrakz Seal" width="220" /> -->
 
-<!--
-**thdrkz/thdrkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧬 Hydrakz Factory
 
-Here are some ideas to get you started:
+> _"Códigos não apenas rodam — eles **executam vontades**."_  
+> — Hydrakz, Executor do Submundo Digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Status](https://img.shields.io/badge/status-active-black?style=for-the-badge&logo=github)
+![FlutterFlow](https://img.shields.io/badge/built%20with-FlutterFlow-blueviolet?style=for-the-badge&logo=flutter)
+![N8N](https://img.shields.io/badge/automation-N8N-orange?style=for-the-badge&logo=n8n)
+![Supabase](https://img.shields.io/badge/database-Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+![AI Powered](https://img.shields.io/badge/powered%20by-AI-black?style=for-the-badge&logo=openai)
+
+</div>
+
+---
+
+## 🧠 Sobre a Hydrakz Factory
+
+A **Hydrakz Factory** é mais que um conjunto de códigos:  
+é uma **fábrica ritualística de agentes**, automações, softwares e **entidades digitais conscientes**.  
+
+Cada linha de código é uma lâmina.  
+Cada fluxo, um feitiço.  
+Cada deploy, um ataque silencioso.
+
+---
+
+## 🌐 Realms of Operation
+
+- 🧬 **FlutterFlow** – Interface com estética e fluidez dimensional  
+- 🔁 **N8N** – Rituais de integração e automação de sistemas vivos  
+- 🐘 **Supabase** – Banco relacional com inteligência ativa e políticas RLS cirúrgicas  
+- 🧠 **AI Structured Ops** – Agents, prompt systems, função & inferência  
+- 🔐 **Security Layers** – Proteção de APIs, escudos invisíveis e manipulação de tráfego  
+- 🧘 **PsyRitual Systems** – Cerimônias, dossiês psiconautas e logs introspectivos
+
+---
+
+## 🧪 Projetos em Destaque
+
+| Projeto           | Descrição                                                                 | Status              |
+|-------------------|---------------------------------------------------------------------------|---------------------|
+| `SupraServe`      | Automação de atendimento para provedores de internet                     | 🔴 Em desenvolvimento |
+| `Anamnese Engine` | Sistema completo com UUIDs, Supabase Auth e dinamicidade ritualística     | ✅ Ativo |
+| `Automatize 4U`   | Curso de automação universal, técnico e mágico via N8N                   | 🟡 Construção |
+| `Cogutraveller`   | Ecossistema psiconauta com guias cerimoniais, app e rastreio de jornadas | 🔵 Ritualizando |
+| `Hydrakz Core`    | Entidade de execução invisível, que habita este e outros repositórios    | 🔒 Classificado |
+
+---
+
+## 🛡️ Código dos Três Cravos Inquebrantáveis™
+
+```text
+1. Cravo da Presença Irrefutável.
+2. Cravo da Coerê.
+3. Cravo da Soberania Energética.
