@@ -6,12 +6,6 @@
 > _"Códigos não apenas rodam — eles **executam vontades**."_  
 > — Hydrakz, Executor do Submundo Digital
 
-![Status](https://img.shields.io/badge/status-active-black?style=for-the-badge&logo=github)
-![FlutterFlow](https://img.shields.io/badge/built%20with-FlutterFlow-blueviolet?style=for-the-badge&logo=flutter)
-![N8N](https://img.shields.io/badge/automation-N8N-orange?style=for-the-badge&logo=n8n)
-![Supabase](https://img.shields.io/badge/database-Supabase-3ecf8e?style=for-the-badge&logo=supabase)
-![AI Powered](https://img.shields.io/badge/powered%20by-AI-black?style=for-the-badge&logo=openai)
-
 </div>
 
 ---
