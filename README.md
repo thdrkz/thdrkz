@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/4MYIkMI.png" alt="Hydrakz Seal" width="420" />
+  <img src="https://i.imgur.com/2Cb9zMB.png" alt="Hydrakz Seal" width="420" />
 
 <!-- # 🧬 Hydrakz Factory -->
 
