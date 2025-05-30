@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/2Cb9zMB.png" alt="Hydrakz Seal" width="420" />
->
+<br />
 <!-- # 🧬 Hydrakz Factory -->
 
 > _"Códigos não apenas rodam — eles **executam vontades**."_  
