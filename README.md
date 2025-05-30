@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/2Cb9zMB.png" alt="Hydrakz Seal" width="420" />
-<br />
+</div><br />
 <!-- # 🧬 Hydrakz Factory -->
-
+<div align="center">
 > _"Códigos não apenas rodam — eles **executam vontades**."_  
 > — Hydrakz, Executor do Submundo Digital
 
