@@ -30,5 +30,3 @@ Cada deploy, um ataque silencioso.
 - 🧠 **AI Structured Ops** – Agents, prompt systems, função & inferência  
 - 🔐 **Security Layers** – Proteção de APIs, escudos invisíveis e manipulação de tráfego  
 - 🧘 **PsyRitual Systems** – Cerimônias, dossiês psiconautas e logs introspectivos
-
----
