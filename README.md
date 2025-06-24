@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <em>"Códigos não apenas rodam — eles <strong>executam vontades</strong>."</em><br />
+  <em>"Códigos não apenas rodam — eles <strong>manifestam realidades</strong>."</em><br />
   — Hydrakz, Executor do Submundo Digital
 </div>
 
